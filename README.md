@@ -46,6 +46,10 @@ Computational Mathematics student at KMUTNB (Year 3 → 4) with passion for:
 Random Forest Regressor for predicting next-day stock prices  
 `Python` `scikit-learn` `Pandas` `yFinance`
 
+### ⚡ [create-next-pro](https://github.com/WasuthaChalermsuk/create-next-pro)
+CLI tool to scaffold Next.js projects with TypeScript, Tailwind CSS, and mock API  
+`TypeScript` `Node.js` `CLI` `Next.js`
+
 ### 🛒 [E-Commerce Shoe Store](https://github.com/WasuthaChalermsuk/ecommerce-shoe-store)
 Full-featured shopping cart with product catalog & checkout  
 `JavaScript` `HTML/CSS` `LocalStorage`
