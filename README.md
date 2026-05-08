@@ -1,6 +1,6 @@
 # Wasutha Chalermsuk 
 
-**Computational Mathematics Student • AI/ML • Algorithmic Trading**
+**Computational Mathematics Student**
 
 Building AI-powered solutions at the intersection of mathematics and finance
 
