@@ -1,4 +1,4 @@
-# Wasutha Chalermsuk | ซี ⚡
+# Wasutha Chalermsuk 
 
 **Computational Mathematics Student • AI/ML • Algorithmic Trading**
 
