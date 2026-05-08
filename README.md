@@ -15,7 +15,6 @@ Computational Mathematics student at KMUTNB (Year 3 → 4) with passion for:
 - **Algorithmic Trading** — Building automated trading systems (EA)
 - **Quantitative Finance** — Applying math to financial markets
 
-Currently focused on: **Final Project** | **Internship Hunting** | **AI Monetization**
 
 ---
 
